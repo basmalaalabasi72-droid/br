@@ -18,6 +18,8 @@ body{
    
 }
 .navbar {
-    background: #333;
+    background: rgb(173, 121, 121);
+    color: #fff;
+    padding: 1rem 0;
 
 }
