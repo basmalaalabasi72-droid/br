@@ -9,3 +9,7 @@ body{
 
     text-align: right;
 }
+.container {
+    max-width: 1100px;
+   
+}
