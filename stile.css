@@ -1,2 +1,8 @@
 
 /* تنسيقات عامة */
+body{
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
