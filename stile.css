@@ -45,4 +45,11 @@ body{
     color: #fff;
     text-decoration: none;
     padding: 0 1rem;
+    transition: color 0.3s;
+}
+.navbar ul li a:hover {
+    color: #f4f4f4;
+}
+.header {
+    
 }
